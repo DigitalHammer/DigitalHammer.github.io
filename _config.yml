@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Adam Mac"
+  avatar           : "https://avatars0.githubusercontent.com/u/36677695?s=460&u=8c26d47dc69466527f6d8b16be704bf4405ea6fb&v=4"
+  bio              : "Documenting a cybersecurity and programming journey."
+  location         : "Kansas"
   email            :
   links:
     - label: "Email"

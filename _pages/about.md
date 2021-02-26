@@ -4,9 +4,10 @@ author_profile: true
 title: About Me!
 ---
 
-## Hello all!
+![Us](_stegoview/01-personal/gym-kcmo.jpg){: width=150 height=100 style="float:right; padding:16px"}
 
-<img src="_stegoview/01-personal/gym-kcmo.jpg" width="400">
+
+
 
 
 

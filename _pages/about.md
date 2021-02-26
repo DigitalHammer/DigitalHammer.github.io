@@ -4,8 +4,12 @@ author_profile: False
 title: My Life in a Nutshell
 ---
 
-Currently struggling with getting images to show up on site. Markdown and HTML syntax works when viewing in GitHub but not on this web page. 
+*Currently struggling with getting images to show up. Markdown and HTML syntax works when viewing in GitHub but not on this site.* 
 
+
+<meta property="og:image" content="https://mmistakes.github.io/minimal-mistakes/assets/images/site-logo.png">
+
+- - -
 
 <img src="_stegoview/01-personal/yosemite.jpg"/>
 

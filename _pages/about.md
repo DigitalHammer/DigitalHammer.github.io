@@ -11,9 +11,9 @@ title: My Life in a Nutshell
 ![Link an image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 *external images work fine*
 
-- - -
+![yosemite](_stegoview/01-personal/yosemite.jpg)
 
-<img src="_https://github.com/DigitalHammer/DigitalHammer.github.io/blob/master/_pages/_stegoview/01-personal/yosemite.jpg"/>
+- - -
 
 
 ![yosemite](_stegoview/01-personal/yosemite.jpg =250x256)

@@ -12,7 +12,7 @@ Everyday is an adventure. Self-mastery is the ultimate solution to life. Wakanda
 **"One can have no smaller or greater mastery than mastery of oneself."** - Leonardo da Vinci
 
 [GitHub](https://github.com/DigitalHammer){: .btn .btn--success}
-[GitHub](https://www.linkedin.com/in/the-adam-mcewen/){: .btn .btn--info}
+[LinkedIn](https://www.linkedin.com/in/the-adam-mcewen/){: .btn .btn--info}
 
 - - -
 

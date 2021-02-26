@@ -6,7 +6,13 @@ title: Cybersecurity Simulations
 
 ## Sim-Alpha
 
-**Image**
+![Link an image](https://raw.githubusercontent.com/DigitalHammer/DigitalHammer.github.io/master/assets/_stegoview/01-personal/yosemite.jpg "Yosemite with me wife")
 
 
-Cybersecurity-based Simulations
+## Specifications
+- **Objective:**
+- **Technologies:**
+  - MITRE's Caldera
+  - Microsoft Azure
+  - Elastic
+- **Purpose:**

@@ -11,15 +11,16 @@ title: My Life in a Nutshell
 ![Link an image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 *external images work fine*
 
-![yosemite](assets/_stegoview/01-personal/yosemite.jpg)
+![yosemite](01-personal/yosemite.jpg)
 
 - - -
 - - -
-
 
 ![yosemite](_stegoview/01-personal/yosemite.jpg =250x256)
 
+- Padded Image:
 ![yosemite-pad](_stegoview/01-personal/yosemite.jpg){: width=250 height=256 style="float:right; padding:16px"}
+
 
 <img src="_stegoview/howto-fork" alt="us" title="Yosemite" width="250" height="256"/>
 

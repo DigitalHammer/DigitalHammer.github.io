@@ -8,8 +8,6 @@ title: My Life in a Nutshell
 
 - - -
 
-![Link an image](https://drive.google.com/file/d/1yQoT8IluXnHb-mWA90G0WqrevIkrtO4m/view?usp=sharing)
-
 ![Link an image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 *external images work fine*
 

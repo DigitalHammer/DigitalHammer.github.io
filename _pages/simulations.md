@@ -15,5 +15,5 @@ title: Cybersecurity Simulations
   - Hosted in: Microsoft Azure
   - Automated attacks: MITRE's Caldera
   - Generate logs and capture traffic: Elastic
-- **Purpose:** Generate searchable logs for research and education so students can practice identifying attacks as they may occur in the real world. 
+- **Purpose:** To perform a variety of attacks to generate searchable logs for research and education so students can practice identifying attacks as they may occur in the real world. 
 - **Status:** In development

@@ -2,7 +2,7 @@
 layout: single
 author_profile: False
 title: My Life in a Nutshell
-background: '/assets/01-personal/yosemite.jpg'
+# background: '/assets/01-personal/yosemite.jpg'
 ---
 
 *Currently struggling with getting images to show up. Markdown and HTML syntax works when viewing in GitHub but not on this site.* 
@@ -14,7 +14,7 @@ background: '/assets/01-personal/yosemite.jpg'
 
 
 
-![yosemite](assets/_stegoview/01-personal/yosemite.jpg)
+![yosemite](/assets/_stegoview/01-personal/yosemite.jpg)
 
 - - -
 - - -

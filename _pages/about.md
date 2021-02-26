@@ -1,10 +1,10 @@
 ---
 layout: single
-author_profile: true
-title: About Me!
+author_profile: False
+title: My Life in a Nutshell
 ---
 
-![Us](_stegoview/01-personal/gym-kcmo.jpg)
+![Us](_stegoview/01-personal/yosemite.jpg)
 
 
 

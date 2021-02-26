@@ -17,6 +17,8 @@ title: My Life in a Nutshell
 
 ![Link an image](https://raw.githubusercontent.com/DigitalHammer/DigitalHammer.github.io/master/assets/_stegoview/01-personal/yosemite.jpg)
 
+![yosemite](yosemite.jpg)
+
 
 - - -
 - - -

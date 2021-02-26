@@ -8,7 +8,12 @@ title: My Life in a Nutshell
 
 - - -
 
+![Link an image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
+
+- - -
+
 <img src="_https://github.com/DigitalHammer/DigitalHammer.github.io/blob/master/_pages/_stegoview/01-personal/yosemite.jpg"/>
+
 
 ![yosemite](_stegoview/01-personal/yosemite.jpg =250x256)
 

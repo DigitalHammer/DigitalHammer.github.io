@@ -12,11 +12,7 @@ title: My Life in a Nutshell
 ![Link an image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 *external images work fine*
 
-![yosemite](/includes/_stegoview/01-personal/yosemite.jpg)
-
-![yosemite](includes/_stegoview/01-personal/yosemite.jpg)
-
-![yosemite](yosemite.jpg)
+![yosemite](assets/_stegoview/01-personal/yosemite.jpg)
 
 
 - - -

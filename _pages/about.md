@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 author_profile: False
 title: My Life in a Nutshell
 ---
@@ -13,6 +13,7 @@ title: My Life in a Nutshell
 
 ![yosemite](_stegoview/01-personal/yosemite.jpg)
 
+- - -
 - - -
 
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 author_profile: False
 title: My Life in a Nutshell
 ---

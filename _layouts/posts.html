@@ -4,11 +4,10 @@ layout: archive
 
 {{ content }}
 
-{% for post in site.posts %}
-    {{ post.title }} <br>
-    {{ post.url }} <br>
-    <a href="{{ post.url }}">{{post.title}}</a> <br>
-    <br>
+{% for file in site.static_files %}
+  {% if file.image %}
+    \<img src="{{file.path}}" alt="{file.name}">
+  {% endif %}
 {% endfor %}
 
 <ul class="taxonomy__index">
